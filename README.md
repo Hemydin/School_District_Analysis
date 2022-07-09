@@ -12,6 +12,10 @@ In this challenge, I re-performed the school district analysis, considering the 
 #### School Summary 
 In the student summary report, only records from Thomas High School were affected by the discovery of inaccurate testing scores. I removed 461 student records from the analysis, representing the ninth-grade scores in the adjusted version of the report. The calculations in the original report included the total student count at Thomas High School as 1,635. Therefore, we see a significant decrease in % passing math, % reading percentages, and the overall passing rate. Removing the ninth-grade scores did not affect the average math and reading scores as significantly.
 ![school_summary](https://user-images.githubusercontent.com/100629325/177875711-d073665c-6272-45fc-bf8c-5a0c9842e2e1.png)
+#### Top 5 performing schools, based on the overall passing rate
+Replacing the ninth graders’ math and reading scores dropped Thomas High School’s ranking from the second-best performing school in the school district to number eight. 
+![top5_schools](https://user-images.githubusercontent.com/100629325/178117048-fd597c20-39fa-429b-a30a-3ea63200b5ac.png)
+
 #### Average Math and Reading Scores by Grade & School
  In the report on average math and reading scores by grade level, only records for the ninth graders' math and reading scores at Thomas High were affected. The records were replaced by "NaN," which represents a "Not-a-Number" value. Other schools' results, as well as the 10th - 12th grades at Thomas High School, remained unchanged.
  
