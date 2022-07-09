@@ -33,7 +33,7 @@ Thomas High School data change has also affected the passing percentages for the
 
 ![school_type_summary](https://user-images.githubusercontent.com/100629325/178118133-594818bc-742d-4bfe-baa9-4491d30611ee.png)
 ### Summary:
-When comparing the updated analysis with the results from the module, I noticed the following changes to the school district analysis after reading and math scores adjustments:
+When comparing the updated analysis with the results from the module, I noticed the following changes to the school district analysis after reading and math scores have been replaced:
 - Removing the ninth-grade scores did not affect the average math and reading scores
 - Decrease in percentage passing math
 - The decline in percentage passing reading
