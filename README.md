@@ -15,23 +15,21 @@ In the student summary report, only records from Thomas High School were affecte
 #### Top 5 performing schools, based on the overall passing rate
 Replacing the ninth graders’ math and reading scores dropped Thomas High School’s ranking from the second-best performing school in the school district to number eight. 
 ![top5_schools](https://user-images.githubusercontent.com/100629325/178117048-fd597c20-39fa-429b-a30a-3ea63200b5ac.png)
-
 #### Average Math and Reading Scores by Grade & School
  In the report on average math and reading scores by grade level, only records for the ninth graders' math and reading scores at Thomas High were affected. The records were replaced by "NaN," which represents a "Not-a-Number" value. Other schools' results, as well as the 10th - 12th grades at Thomas High School, remained unchanged.
  
  ![Average_Math_Scores_byGrade](https://user-images.githubusercontent.com/100629325/177880131-fc00bb2c-71ac-4148-9aa0-977ef1996578.png)
-
 #### Spending Summary
-Thomas High School falls under the $631-645 spending range; therefore, we can see a decrease in % passing math, % passing reading, and overall passing rate due to adjustments for the ninth graders' math and reading scores at Thomas High School.
+Thomas High School falls under the $631-645 spending range; therefore, we can see a decrease in % passing math, % passing reading, and overall passing rate due to adjustments for the ninth graders' math and reading scores at Thomas High School. This data change did not impact the spending ranges for either the average math scores or average reading scores.
 
 ![spending_summary](https://user-images.githubusercontent.com/100629325/178117367-9889b480-b842-4200-a6a6-f6f753a83bca.png)
-
 #### School Size Summary
-Given the data change, the passing percentages for math, reading, and overall rate in the medium-sized schools (1,000-2,000) dropped by 6% each.
+Given the data change at Thomas High School, the passing percentages for math, reading, and overall rate in the medium-sized schools (1,000-2,000) dropped by 6% each. The average math and average reading scores were not affected by the change.
 
 ![school_size_summary](https://user-images.githubusercontent.com/100629325/178117701-d3f334a0-7c67-4c11-895c-05418969ab18.png)
-
 #### School Type Summary
+Thomas High School data change has also affected the passing percentages for the charter school category but didn't affect the average math and reading scores.
 
-
+![school_type_summary](https://user-images.githubusercontent.com/100629325/178118133-594818bc-742d-4bfe-baa9-4491d30611ee.png)
+## Summary:
 
