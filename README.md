@@ -1,7 +1,7 @@
-# School District Analysis
-## Project Overview
+## School District Analysis
+### Project Overview
 In this challenge, I re-performed the school district analysis, considering the evidence of academic dishonesty at Thomas High School that jeopardized ninth-grade students' test scores. I was instructed to replace the ninth-grade math and reading scores with "NaN" while keeping the rest of the data intact. In the following section, we'll discuss how these changes affected the overall analysis.
-## Results:
+### Results:
 #### School District Summary
 - The score replacement impacted the average math score by 0.1 points, while the average reading score stayed unchanged.
 - Passing math and reading percentages dropped by 0.2%  and 0.1%, respectively
@@ -31,5 +31,5 @@ Given the data change at Thomas High School, the passing percentages for math, r
 Thomas High School data change has also affected the passing percentages for the charter school category but didn't affect the average math and reading scores.
 
 ![school_type_summary](https://user-images.githubusercontent.com/100629325/178118133-594818bc-742d-4bfe-baa9-4491d30611ee.png)
-## Summary:
+### Summary:
 
