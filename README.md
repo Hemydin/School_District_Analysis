@@ -10,7 +10,8 @@ In this challenge, I re-performed the school district analysis, considering the 
 
 ![school_district_summary](https://user-images.githubusercontent.com/100629325/177710597-3eb5b39e-93ec-4d99-b2bb-d7978f41ae4b.png)
 #### School Summary 
-In the student summary report, only records from Thomas High School were affected by the discovery of inaccurate testing scores. I removed 461 student records from the analysis, representing the ninth-grade scores in the adjusted version of the report. The calculations in the original report included the total student count at Thomas High School as 1,635. Therefore, we see a significant decrease in % passing math, % reading percentages, and the overall passing rate. Removing the ninth-grade scores did not affect the average math and reading scores as significantly.
+In the student summary report, only records from Thomas High School were affected by the discovery of inaccurate testing scores. I removed 461 student records from the analysis, representing the ninth-grade scores in the adjusted version of the report. The calculations in the original report included the total student count at Thomas High School as 1,635. Therefore, we see a significant decrease in % passing math, % reading percentages, and the overall passing rate. The adjustments for the ninth-grade scores only slightly affected the average math and reading scores.
+
 ![school_summary](https://user-images.githubusercontent.com/100629325/177875711-d073665c-6272-45fc-bf8c-5a0c9842e2e1.png)
 #### Top 5 performing schools, based on the overall passing rate
 Replacing the ninth graders’ math and reading scores dropped Thomas High School’s ranking from the second-best performing school in the school district to number eight. 
