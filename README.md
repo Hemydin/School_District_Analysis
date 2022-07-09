@@ -25,3 +25,7 @@ Replacing the ninth graders’ math and reading scores dropped Thomas High Schoo
 Thomas High School falls under the $631-645 spending range; therefore, we can see a decrease in % passing math, % passing reading, and overall passing rate due to adjustments for the ninth graders' math and reading scores at Thomas High School.
 
 ![spending_summary](https://user-images.githubusercontent.com/100629325/178117367-9889b480-b842-4200-a6a6-f6f753a83bca.png)
+
+#### School Size Summary
+Given the data change, the passing percentages for math, reading, and overall rate in the medium-sized schools (1,000-2,000) dropped by 6% each. 
+![school_size_summary](https://user-images.githubusercontent.com/100629325/178117701-d3f334a0-7c67-4c11-895c-05418969ab18.png)
