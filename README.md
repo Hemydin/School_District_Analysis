@@ -20,3 +20,8 @@ Replacing the ninth graders’ math and reading scores dropped Thomas High Schoo
  In the report on average math and reading scores by grade level, only records for the ninth graders' math and reading scores at Thomas High were affected. The records were replaced by "NaN," which represents a "Not-a-Number" value. Other schools' results, as well as the 10th - 12th grades at Thomas High School, remained unchanged.
  
  ![Average_Math_Scores_byGrade](https://user-images.githubusercontent.com/100629325/177880131-fc00bb2c-71ac-4148-9aa0-977ef1996578.png)
+
+#### Spending Summary
+Thomas High School falls under the $631-645 spending range; therefore, we can see a decrease in % passing math, % passing reading, and overall passing rate due to adjustments for the ninth graders' math and reading scores at Thomas High School.
+
+![spending_summary](https://user-images.githubusercontent.com/100629325/178117367-9889b480-b842-4200-a6a6-f6f753a83bca.png)
